@@ -52,7 +52,7 @@ __http://www.apache.org/licenses/LICENSE-2.0.txt__
 * [Funcion Map](4.0-programacion-funcional/src/map.py)
 * [Funcion Filter](4.0-programacion-funcional/src/filter.py)
 * [Funcion Reduce](4.0-programacion-funcional/src/reduce.py)
-* [Listas por comprención] (4.0-programacion-funcional/src/5_list_comprehension.py)
+* [Listas por comprención](4.0-programacion-funcional/src/5_list_comprehension.py)
 
 * [Ejercicios!](4.0-programacion-funcional/ejercicios.txt)
 

@@ -1,0 +1,8 @@
+- Tomar un descanzo - pensar con funciones, constantes, main.
+- Ejercicio de Agenda.
+- Hacer ejercicio en clase de informacion de peliculas (parte a)
+     -Sistema de reserva de cine.
+     -Carga pelicula, carga horarios para pelicula, capacidad de sala.
+     -Muestra asientos disponibles para una sala.
+     -Toma reserva de sala para una pelicula.
+     

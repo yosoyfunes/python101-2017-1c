@@ -39,7 +39,7 @@ __http://www.apache.org/licenses/LICENSE-2.0.txt__
 * [Ejercicios!](2.0-funciones/ejercicios.txt)
 
 
-[**_Ejecitacion cine con programación funcional_**](3.0-programacion-funcional)
+[**_Ejecitacion cine con programación funcional_**](3.0-programacion-funcional) (Clase 3)
 * [inicio ejemplo](3.0-programacion-funcional/cine.py)
 
 * [Ejercicios!](3.0-programacion-funcional/ejercicios.txt)
@@ -55,6 +55,22 @@ __http://www.apache.org/licenses/LICENSE-2.0.txt__
 * [Listas por comprención](4.0-programacion-funcional/src/5_list_comprehension.py)
 
 * [Ejercicios!](4.0-programacion-funcional/ejercicios.txt)
+
+
+[**_Programacion orientada a objetos_**](5.0-clases-y-objetos) (Clase 5)
+
+* [Definiendo una clase] (5.0-clases-y-objetos/src/auto_1.py)
+* [Métodos y atributos de instancia](5.0-clases-y-objetos/src/auto_2.py)
+* [Métodos y atributos estaticos](5.0-clases-y-objetos/src/metodos_estaticos.py)
+* [Métodos de clase](5.0-clases-y-objetos/src/metodos_clase.py)
+* [Herencia](5.0-clases-y-objetos/src/ejemplo_herencia.py)
+* [Uso de super](5.0-clases-y-objetos/src/sobrecarga.py)
+* [Sobrecarga](5.0-clases-y-objetos/src/sobrecarga.py)
+* [Argumentos y super](5.0-clases-y-objetos/src/argumentos_y_super.py)
+* [Visibilidad](5.0-clases-y-objetos/src/auto_volador.py)
+* [Propiedades](5.0-clases-y-objetos/src/properties.py)
+* [Add, all, str, next](https://docs.python.org/2/reference/datamodel.html?highlight=__add__#object.__add__)
+* [Ejercicios](5.0-clases-y-objetos/src/ejercicios.txt)
 
 
 GIT: como agregar un remoto https://help.github.com/articles/configuring-a-remote-for-a-fork/

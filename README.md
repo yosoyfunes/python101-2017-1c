@@ -59,7 +59,7 @@ __http://www.apache.org/licenses/LICENSE-2.0.txt__
 
 [**_Programacion orientada a objetos_**](5.0-clases-y-objetos) (Clase 5)
 
-* [Definiendo una clase] (5.0-clases-y-objetos/src/auto_1.py)
+* [Definiendo una clase](5.0-clases-y-objetos/src/auto_1.py)
 * [Métodos y atributos de instancia](5.0-clases-y-objetos/src/auto_2.py)
 * [Métodos y atributos estaticos](5.0-clases-y-objetos/src/metodos_estaticos.py)
 * [Métodos de clase](5.0-clases-y-objetos/src/metodos_clase.py)
@@ -71,6 +71,15 @@ __http://www.apache.org/licenses/LICENSE-2.0.txt__
 * [Propiedades](5.0-clases-y-objetos/src/properties.py)
 * [Add, all, str, next](https://docs.python.org/2/reference/datamodel.html?highlight=__add__#object.__add__)
 * [Ejercicios](5.0-clases-y-objetos/src/ejercicios.txt)
+
+[**_Archivos_**](6.0-archivos) (Clase 6)
+* [Lectura y escritura](6.0-archivos/src/lectoescritura.py)
+* Parseo de argumentos
+* [sys argument parse](6.0-archivos/src/argumentos.py)
+* [argparser](6.0-archivos/src/argparser.py)
+* [Persistencia de información con pickle](6.0-archivos/src/picklesample.py)
+
+[**_Ejercicios para fortalecer conocimientos_**](6.0-extras-ejercicios)  (Clase 6)
 
 
 GIT: como agregar un remoto https://help.github.com/articles/configuring-a-remote-for-a-fork/

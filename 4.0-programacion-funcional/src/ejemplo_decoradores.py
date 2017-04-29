@@ -112,7 +112,7 @@ def wellcome():
 def saludar():
     return "hola"
 
-@accepts(int)
+@accepts(int, debug=True)
 @returns(int)
 def add(x, y):
     return x + y

@@ -48,7 +48,7 @@ def countdown(n):
   else:
     print(n)
     countdown(n - 1)
-  print('Exiting from countdown(',n,')')
+    print('Exiting from countdown(',n,')')
 
 '''
 Ejemplo max deepth

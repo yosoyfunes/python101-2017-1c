@@ -2,7 +2,7 @@
 def sqr(x):
     return x ** 2
 
-secuencia = (1,2,3)
+secuencia = [1,2,3]
 
 funcion = sqr
 
@@ -13,8 +13,8 @@ print(secuencia)
 print(resultado2)
 
 resultado3 = map(lambda x: x**2, secuencia)
-
 print(resultado3)
+
 print(resultado2 == resultado3)
 print(resultado2 is resultado3)
 print("abc" is "abc")

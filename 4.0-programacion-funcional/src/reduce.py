@@ -2,7 +2,7 @@ result = reduce(lambda a, b: '{}, {}'.format(a, b), [1, 2, 3, 4, 5, 6, 7, 8, 9])
 
 print(result)
 
-result = reduce(lambda x, y: x+y, [1, 2, 3, 4, 5])
+result = reduce(lambda x, y: x+y, [1, 2, 3, 4, 5], None)
 # calcula: ((((1+2)+3)+4)+5).
 print(result)
 

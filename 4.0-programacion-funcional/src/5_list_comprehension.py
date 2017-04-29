@@ -22,15 +22,15 @@ print(lowercase_names)
 tupla_a_5 = (x for x in range(5)) ###Generador a 5
 print(tupla_a_5)
 
-set_a_5 = {x for x in range(5)}
+set_a_5 = { x for x in range(5) }
 print(set_a_5)
 
 primes_set = {x for x in range(2, 101) if all(x%y for y in range(2, min(x, 11)))}
 print(primes_set)
 
-lista_tupla = [(x,y) for x in range(len(names_list)) for y in names_list]
+lista_tupla = [(x,y) for y in names_list for x in range(len(names_list))]
 print(lista_tupla)
 
-dict_values = {x:y for x,y in lista_tupla}
+dict_values = {x:y for y,x in lista_tupla}
 
 print(dict_values)

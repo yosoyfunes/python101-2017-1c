@@ -81,6 +81,16 @@ __http://www.apache.org/licenses/LICENSE-2.0.txt__
 
 [**_Ejercicios para fortalecer conocimientos_**](6.0-extras-ejercicios)  (Clase 6)
 
+[**_Expresiones Regulares_**](7.0-expresiones-regulares)
+* Expresiones regulares (regex)
+* Control de errores, manejo de excepciones (try-except)
+* Sentencias where y yield
+* Impactando un Web Service
+* Leyendo una URL
+* Mail
+* FTP
+* [Ejercicios](6.0-expresiones-regulares/ejercicios.txt)
+
 
 GIT: como agregar un remoto https://help.github.com/articles/configuring-a-remote-for-a-fork/
 

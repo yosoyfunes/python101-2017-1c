@@ -27,6 +27,9 @@ abc…	Letras
 (abc|def)	Machea abc o def
 
 
+abc abcd abcde
+
+
 No hacer un archivo python por cada ejercicio, sino hacer un solo archivo con todas las opciones.
 Para cada punto, escribir una única expresión regular que machee:
 
